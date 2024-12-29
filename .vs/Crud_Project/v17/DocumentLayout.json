@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdul Muizz\\source\\repos\\Crud_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE43D3A0-0EE6-4F1C-AA9C-BA54F89049AC}|Crud_Project\\Crud_Project.csproj|c:\\users\\abdul muizz\\source\\repos\\crud_project\\crud_project\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE43D3A0-0EE6-4F1C-AA9C-BA54F89049AC}|Crud_Project\\Crud_Project.csproj|solutionrelative:crud_project\\crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE43D3A0-0EE6-4F1C-AA9C-BA54F89049AC}|Crud_Project\\Crud_Project.csproj|c:\\users\\abdul muizz\\source\\repos\\crud_project\\crud_project\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE43D3A0-0EE6-4F1C-AA9C-BA54F89049AC}|Crud_Project\\Crud_Project.csproj|solutionrelative:crud_project\\crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crud.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul Muizz\\source\\repos\\Crud_Project\\Crud_Project\\Crud.aspx.cs",
+              "RelativeDocumentMoniker": "Crud_Project\\Crud.aspx.cs",
+              "ToolTip": "C:\\Users\\Abdul Muizz\\source\\repos\\Crud_Project\\Crud_Project\\Crud.aspx.cs",
+              "RelativeToolTip": "Crud_Project\\Crud.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA7wCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:32:13.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crud.aspx",
+              "DocumentMoniker": "C:\\Users\\Abdul Muizz\\source\\repos\\Crud_Project\\Crud_Project\\Crud.aspx",
+              "RelativeDocumentMoniker": "Crud_Project\\Crud.aspx",
+              "ToolTip": "C:\\Users\\Abdul Muizz\\source\\repos\\Crud_Project\\Crud_Project\\Crud.aspx",
+              "RelativeToolTip": "Crud_Project\\Crud.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-28T08:40:30.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
